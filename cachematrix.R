@@ -1,4 +1,4 @@
-# For R Programming Coursera course
+# For R Programming Coursera course.
 # Peter J Dodge. 21/09/2014.
 # Version 1.2
 ## Two functions to cache the inverse of a matrix.
